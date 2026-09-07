@@ -51,4 +51,7 @@ Now, let’s begin by searching for “Virtual Machines” in the Azure Portal s
 </p>
 <img width="2554" height="1243" alt="Screenshot 2026-09-02 at 10 23 10 PM" src="https://github.com/user-attachments/assets/02b2b537-73dd-4621-aa50-3802a7b6f39f" />
 </p>
+Now, you will land on this page, as depicted in the screenshot above.</p>
+
+- On this page, you can select a Microsoft Azure subscription and resource group. You can also give your virtual machine a name and choose the region where you’d like it to be hosted. You can choose from various operating systems like Windows and Linux, and select the size of your virtual machine, including RAM and storage capacity.
  
