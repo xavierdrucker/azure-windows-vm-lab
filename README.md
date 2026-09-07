@@ -17,17 +17,18 @@ Azure lab demonstrating the deployment and basic administration of a Windows vir
 
 <h2> Configuration Steps </h2>
 
-Step 1 - Create a Resource Group
-Step 2 - Create Windows 11 Pro VM within Resource Group
-Step 3 - Use Remote Desktop to test Windows VM functionality
+- Step 1 - Create a Resource Group
+- Step 2 - Create Windows 11 Pro VM within Resource Group
+- Step 3 - Use Remote Desktop to test Windows VM functionality
 
-<h2>Lifecycle Stages</h2>
+<h2>Configuration Process</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1554" height="670" alt="Creating azure resource group" src="https://github.com/user-attachments/assets/f3fd26fc-61e0-4d05-9eb0-681d0ad91f1b" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When signing up for an Azure subscription, we’ll begin by searching for “Resource groups” in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it under the “Services” section and then click “Create.” Next, enter the name of the resource group and the geographic region where you want it to be created.
+
+In Microsoft Azure, a Resource Group acts as a folder that organizes related cloud resources, such as virtual machines, storage, or networks, for easier management. It allows for cost tracking, permission setting, and the ability to delete all resources simultaneously when needed.
 </p>
 <br />
 
