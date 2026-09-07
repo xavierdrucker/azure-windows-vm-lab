@@ -61,4 +61,48 @@ Now, you will land on this page, as depicted in the screenshot above.</p>
 - If you don't select the option confirming an eligible Windows 10/11 license with multi-tenant hosting rights, Azure blocks the VM creation because it requires proof that you have a valid license to run Windows in a shared cloud environment. Select the checkbox and click "Next: Disks"
   <img width="1222" height="838" alt="9_disks" src="https://github.com/user-attachments/assets/5f7e0ddb-2979-4632-8e2f-a6fc629ff367" />
 <h2> Click "Next: Networking" to move into the Networking section of the VM creation </h2>
-  
+<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 10 26 43 PM" src="https://github.com/user-attachments/assets/cad19d2b-22bd-4200-9fb6-7017cc28a74f" />
+
+- To rename a virtual network in Azure, click on “Edit virtual network” under “Virtual Network.”
+
+-  Having virtual machines (VMs) on the same virtual network enables them to communicate swiftly and securely with minimal latency, as they reside within the same isolated network environment. This simplifies the setup for tasks such as testing or data sharing between VMs, eliminating the need for intricate routing or public internet access. Next, click on "Review + Create" to be taken to the VM summary page. 
+ <img width="749" height="646" alt="Screenshot 2026-09-02 at 10 26 43 PM 2" src="https://github.com/user-attachments/assets/a8e9534d-89b9-4283-83ab-421c352a4045" />
+ <img width="1017" height="584" alt="12_create-vm" src="https://github.com/user-attachments/assets/55c606b3-1faa-44d3-b6d7-e590895fe30a" />
+
+- Validation in Azure, during the review and creation of a virtual machine, involves Azure verifying your configuration settings to ensure they comply with requirements such as valid licensing, resource availability, and correct network settings. This step ensures that everything is properly configured before deployment, thereby preventing errors.
+<img width="338" height="61" alt="12_create-vm-2" src="https://github.com/user-attachments/assets/d141b517-e834-4227-97af-f224d78c8cb2" />
+
+- Once the validation process is completed, click “Create” to finalize the creation of the virtual machine.
+<img width="553" height="460" alt="Screenshot 2026-09-02 at 10 28 20 PM" src="https://github.com/user-attachments/assets/e8b88a7f-e6df-4691-b7f9-0fe5553f0c94" />
+
+- Now your Azure VM should be deploying....
+<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 11 00 49 PM" src="https://github.com/user-attachments/assets/2de4c86e-0e22-4585-be33-311b3d5f19a1" />
+<h2> Now your Azure VM should be deployed </h2>
+<img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/005e0699-6685-4e16-8278-be396d7de3cd" />
+<h2> Use Remote Desktop to test Windows VM </h2>
+ <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/1a13e090-4adc-4720-8574-399369ec04ad" /> 
+
+ - 💻 RDP from a Mac to a Windows VM
+Download Microsoft Windows App from the Mac App Store.
+Open the app and select Add PC.
+Enter the VM's Public IP Address.
+Enter your Windows VM username and password.
+Click Connect to access the VM remotely.
+
+- 🪟 RDP from Windows to a Windows VM
+Press Windows Key + R.
+Type mstsc and press Enter.
+Enter the VM's Public IP Address.
+Click Connect.
+Enter your Windows VM username and password.
+You are now connected to the VM through RDP.
+
+- RDP (Remote Desktop Protocol) lets you control a Windows virtual machine from another computer as if you were sitting directly in front of it.
+
+<img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 30 51 PM" src="https://github.com/user-attachments/assets/c5bac19c-178f-445d-814e-3600b8fcb754" />
+
+
+  
+
+   
+   
