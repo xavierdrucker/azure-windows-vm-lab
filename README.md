@@ -54,4 +54,11 @@ Now, let’s begin by searching for “Virtual Machines” in the Azure Portal s
 Now, you will land on this page, as depicted in the screenshot above.</p>
 
 - On this page, you can select a Microsoft Azure subscription and resource group. You can also give your virtual machine a name and choose the region where you’d like it to be hosted. You can choose from various operating systems like Windows and Linux, and select the size of your virtual machine, including RAM and storage capacity.
- 
+<img width="891" height="715" alt="Screenshot 2026-09-07 at 3 28 36 PM" src="https://github.com/user-attachments/assets/4dba7237-948d-4fc8-a751-952b782c075b" />
+
+- On the same page, scroll down and fill in a user account name and password for the virtual machine and enable RDP (Remote Desktop Protocol) (3389), as this is what will allow you to remotely access the VM.
+
+- If you don't select the option confirming an eligible Windows 10/11 license with multi-tenant hosting rights, Azure blocks the VM creation because it requires proof that you have a valid license to run Windows in a shared cloud environment. Select the checkbox and click "Next: Disks"
+  <img width="1222" height="838" alt="9_disks" src="https://github.com/user-attachments/assets/5f7e0ddb-2979-4632-8e2f-a6fc629ff367" />
+<h2> Click "Next: Networking" to move into the Networking section of the VM creation </h2>
+  
