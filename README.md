@@ -26,9 +26,14 @@ Azure lab demonstrating the deployment and basic administration of a Windows vir
 <img width="1554" height="670" alt="Creating azure resource group" src="https://github.com/user-attachments/assets/f3fd26fc-61e0-4d05-9eb0-681d0ad91f1b" />
 </p>
 <p>
-When signing up for an Azure subscription, we’ll begin by searching for “Resource groups” in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it under the “Services” section and then click “Create.” Next, enter the name of the resource group and the geographic region where you want it to be created.
+When signing up for an Azure subscription, we’ll begin by searching for “Resource groups” in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
+In the screenshot above, the details of the Resource group are as follows:
 
-In Microsoft Azure, a Resource Group acts as a folder that organizes related cloud resources, such as virtual machines, storage, or networks, for easier management. It allows for cost tracking, permission setting, and the ability to delete all resources simultaneously when needed.
+- Subscription: This refers to the Azure account or billing plan you select to pay for and manage the resources within your Resource Group.
+
+- Resource Group Name: This is the unique name you assign to your Resource Group to identify and organize your resources.
+
+- Region: This indicates the geographic location where Azure hosts your resources. Once filled in, click “Review + Create.”  
 </p>
 <br />
 
