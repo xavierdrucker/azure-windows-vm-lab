@@ -36,20 +36,19 @@ In the screenshot above, the details of the Resource group are as follows:
 - Region: This indicates the geographic location where Azure hosts your resources. Once filled in, click “Review + Create.”  
 </p>
 <br />
+<p>
+<img width="2112" height="548" alt="azure resource group created" src="https://github.com/user-attachments/assets/a0252b20-39c8-4934-8660-b66859006614" />
+</p>
+<p>
+Microsoft Azure resource group has now been created and ready for use.
+
+<h2> Deployment of Windows 11 Pro VM within Resource Group </h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1235" height="794" alt="3_create-vm" src="https://github.com/user-attachments/assets/67d83589-e0f2-4ed4-af24-3d0f7994cd3f" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, let’s begin by searching for “Virtual Machines” in the Azure Portal search bar. Once “Virtual Machines” appears in the search bar, click on it under the “Services” section and then click “Create.” As shown in the screenshot above.
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 10 23 10 PM" src="https://github.com/user-attachments/assets/02b2b537-73dd-4621-aa50-3802a7b6f39f" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+ 
