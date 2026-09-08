@@ -75,10 +75,11 @@ Now, you will land on this page, as depicted in the screenshot above.</p>
 - Once the validation process is completed, click “Create” to finalize the creation of the virtual machine.
 <img width="553" height="460" alt="Screenshot 2026-09-02 at 10 28 20 PM" src="https://github.com/user-attachments/assets/e8b88a7f-e6df-4691-b7f9-0fe5553f0c94" />
 
-- Now your Azure VM should be deploying....
-<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 11 00 49 PM" src="https://github.com/user-attachments/assets/2de4c86e-0e22-4585-be33-311b3d5f19a1" />
+- Now your Azure VM should be deploying....–
 <h2> Now your Azure VM should be deployed </h2>
-<img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/005e0699-6685-4e16-8278-be396d7de3cd" />
+
+<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 11 00 49 PM" src="https://github.com/user-attachments/assets/bf25a326-0f15-44d2-8396-ca80fe8313bc" />
+
 <h2> Use Remote Desktop to test Windows VM </h2>
  <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/1a13e090-4adc-4720-8574-399369ec04ad" /> 
 
@@ -101,8 +102,9 @@ You are now connected to the VM through RDP.
 
 <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 30 51 PM" src="https://github.com/user-attachments/assets/c5bac19c-178f-445d-814e-3600b8fcb754" />
 
+<h2> Conclusion </h2>
 
-  
+- This project showcases the immense power and versatility of Microsoft Azure in creating a virtual machine. It provides hands-on experience with both Windows and Linux environments in a cloud setting. By leveraging Azure’s Resource Groups and virtual networks, users acquire crucial skills in configuring and connecting VMs. This practical experience deepens their understanding of virtualization and network management, laying a solid foundation for mastering virtual machine deployment and virtual network setups in cloud environments.
 
    
    
