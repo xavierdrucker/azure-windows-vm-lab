@@ -12,7 +12,7 @@ Azure lab demonstrating the deployment and basic administration of a Windows vir
 
 <h2>Operating Systems Used </h2>
 
-- MacBook Air M2 (Host Machine)
+- Apple Mac OS (Host Machine)
 - Windows 11 Pro </b> (25H2 ) (Virtual Machine)
 
 <h2> Configuration Steps </h2>
